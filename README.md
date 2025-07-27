@@ -1,10 +1,10 @@
 # Hosital-Management-System-DBMS
-<b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
+<b>Link</b> : [https://github.com/Skismail57/Skismail57]
 
 <pre>
-Name: Hrishikesh Athalye
-MIS: 111803154
-Class : TY Comp Div 2
+Name: Shaik Isml
+MIS: 1CE22AI401
+Course : AI&ML
 </pre>
 
 Hospital Management System made for Sem 5 DBMS Course Project.<br>
